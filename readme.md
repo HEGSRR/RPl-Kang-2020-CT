@@ -3,7 +3,7 @@
 Author: Derrick Burt  
 Last Updated: February 27, 2021
 
-This repository was a component of [https://derrickburt.github.io](https://derrickburt.github.io)
+This repository was first published by Derrick Burt as a component of [https://derrickburt.github.io](https://derrickburt.github.io)
 
 ### About 
 
