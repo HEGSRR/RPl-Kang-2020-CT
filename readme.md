@@ -1,6 +1,6 @@
 # Replicating CyberGISX Analysis: Rapidly Measuring Spatial Accessibility of COVID-19 Healthcare in Connecticut
 
-Author: Derrick Burt
+Author: Derrick Burt  
 Last Updated: February 27, 2021
 
 This repository was a component of [https://derrickburt.github.io](https://derrickburt.github.io)
